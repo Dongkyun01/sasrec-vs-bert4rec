@@ -24,7 +24,6 @@
 ├── main_sasrec.py
 ├── main_bert4rec.py
 ├── compare_models.py
-└── requirements.txt
 ```
 
 ---
